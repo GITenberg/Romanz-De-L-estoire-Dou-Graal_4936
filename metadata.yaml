@@ -1,0 +1,26 @@
+_repo: Romanz-De-L-estoire-Dou-Graal_4936
+creator:
+  author:
+    agent_name: Robert, de Boron, 13th cent.
+    aliases:
+    - Borron, Robert de
+    - De Boron, Robert
+    - Boron, Robert de
+    gutenberg_agent_id: '1596'
+    url: http://www.gutenberg.org/2009/agents/1596
+    wikipedia: http://en.wikipedia.org/wiki/Robert_de_Boron
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4936'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: Romanz De L'estoire Dou Graal
+url: http://www.gutenberg.org/ebooks/4936
